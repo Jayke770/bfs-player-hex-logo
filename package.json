@@ -1,0 +1,12 @@
+{
+  "name": "bfs-player-hex-logo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/Jayke770/bfs-player-hex-logo.git",
+  "author": "Jayke770 <jakevelasco40@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
